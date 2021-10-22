@@ -11,9 +11,9 @@ function changeSocialMediaLinks() {
 const linksSocialMedia = {
   github: 'DavidFerrs',
   youtube: 'channel/UCgn3laYtwe-hNj_feBXjAXQ',
-  facebook: 'maykbrito',
+  facebook: '',
   instagram: 'davidferr.s',
-  twitter: 'jakelinytec'
+  twitter: ''
 }
 
 changeSocialMediaLinks()
