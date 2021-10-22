@@ -1,8 +1,8 @@
-# Crachá NLW Heat
+# Crachá NLW
 
-Crachá virtual criado na trilha origin na NLW Heat.[Access here!](https://davidferrs.github.io/cracha-nlw/)
+Crachá virtual criado na trilha origin na NLW Heat. [Access here](https://davidferrs.github.io/cracha-nlw/)!
 
-Conteúdos utilizados
+Conteúdos utilizados 💻
 =================
 <!--ts-->
    * html
@@ -11,5 +11,5 @@ Conteúdos utilizados
 <!--te-->
 
 <h4 align="center"> 
-	Crachá Terminado 🚀
+	Crachá Concluido✔️
 </h4>
